@@ -1,5 +1,5 @@
 ## 👾 Augusto
 - Veterinarian Doctor
 - ADS Student
-- Learning Java and Programing Logic
+- Learning Software Development
 - Interested in HealthTech And AI
