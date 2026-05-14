@@ -1,4 +1,4 @@
-## 👾 Augusto
+## 👨🏻‍💻 Augusto 
 - Veterinarian Doctor
 - ADS Student
 - Learning Software Development
